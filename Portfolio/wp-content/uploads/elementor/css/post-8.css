@@ -1,0 +1,14 @@
+.elementor-8 .elementor-element.elementor-element-14851fd:not(.elementor-motion-effects-element-type-background), .elementor-8 .elementor-element.elementor-element-14851fd > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#60D7A9;}.elementor-8 .elementor-element.elementor-element-14851fd{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-8 .elementor-element.elementor-element-14851fd > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-8 .elementor-element.elementor-element-4c76655{text-align:center;color:#FFFFFF;font-size:15px;font-weight:400;font-style:italic;}.elementor-8 .elementor-element.elementor-element-4c76655 > .elementor-widget-container{margin:10px 0px 0px 28px;padding:0px 0px 0px 0px;}.elementor-8 .elementor-element.elementor-element-ed2bdc3{display:block;text-align:center;}.elementor-8 .elementor-element.elementor-element-ed2bdc3 .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:center;}.elementor-8 .elementor-element.elementor-element-ed2bdc3 .aux-menu-depth-0 > .aux-item-content{color:#FFFFFF;font-size:12px;font-weight:500;}.elementor-8 .elementor-element.elementor-element-ed2bdc3 > .elementor-widget-container{margin:11px 0px 0px 0px;}@media(min-width:768px){.elementor-8 .elementor-element.elementor-element-e61a771{width:53.508%;}.elementor-8 .elementor-element.elementor-element-59f0cba{width:46.444%;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-ed2bdc3 */.aux-burger .mid-line, .aux-burger::before, .aux-burger::after {
+    border-color: #ffffff;
+}
+
+.aux-toggle-menu-bar[style="height: 0px;"] ul {
+    display: none;
+}
+.aux-burger::before,
+.aux-burger::after,
+.aux-burger .mid-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}/* End custom CSS */
